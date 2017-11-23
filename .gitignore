@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+myvenv #NOMBRE DEL ENTORNO VIRTUAL
+db.sqlite3 # SOLO SI SE ESTA USANDO SQLITE
+.DS_Store
+.idea/*
